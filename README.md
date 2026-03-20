@@ -1,2 +1,2 @@
-# BrightPathLearming-app
+# BrightPathLearning-app
 Brightpath learning app
